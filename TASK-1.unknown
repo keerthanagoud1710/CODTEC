@@ -1,0 +1,17 @@
+Name: Devarla Keerthana
+Company: CODTECH IT SOLUTIONS
+Id: CT08DS9650
+Domain: CLOUD COMPUTING
+Duration: OCTOMBER TO NOVEMBER 2024
+Mentor: SANTHOSH KUMAR
+
+OVERVIEW OF THE PROJECT
+Project: DEPLOYING A WEB APPLICATION ON AWS
+Objective
+Deploy a scalable and secure web application on an AWS EC2 instance, ensuring high availability and performance, while optimizing costs through efficient resource management and automation.
+
+Key Activities
+1. Installed httpd
+2. Copied the website link and unzipped it
+3. Enabled httpd through the Linux terminal
+
